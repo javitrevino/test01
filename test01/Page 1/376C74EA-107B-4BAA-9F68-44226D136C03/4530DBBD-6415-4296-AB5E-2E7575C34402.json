@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "a2f0a8a0-4eb5-11eb-aae1-a1fb25ae65e2",
+  "do_objectID": "4530DBBD-6415-4296-AB5E-2E7575C34402",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,48 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 19,
+    "width": 93,
+    "x": 21,
+    "y": 32
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "ECC16A31-7CD9-4C11-9956-BD726E8E30DD"
-    },
-    {
-      "class": "artboard",
-      "id": "376C74EA-107B-4BAA-9F68-44226D136C03"
-    },
-    {
-      "class": "artboard",
-      "id": "21024313-C053-4996-9786-698CCD0DAE30"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Button",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EA5AFE5D-AE0D-4390-934D-89DCCDE782BA",
+    "do_objectID": "FC876601-7DD2-48F7-A015-DB51883953C2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "2552E57B-DED7-4119-A5F4-F5FDCEAA0ADC",
+  "verticalSpacing": 0
 }
