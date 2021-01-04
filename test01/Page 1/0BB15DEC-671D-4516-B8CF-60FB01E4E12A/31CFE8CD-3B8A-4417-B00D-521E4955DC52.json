@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "21024313-C053-4996-9786-698CCD0DAE30",
+  "do_objectID": "31CFE8CD-3B8A-4417-B00D-521E4955DC52",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,64 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 1626,
-    "y": 331
+    "height": 43,
+    "width": 212,
+    "x": 21,
+    "y": 66
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "1A96F228-A30A-49FA-A34D-55B84A6BE7D4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E1495030-3403-4B59-8D3F-E21EF32FF140"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F6B5724-3578-4092-B854-5D604761A5E1"
-    },
-    {
-      "class": "rectangle",
-      "id": "ADD30739-F5D1-4866-86D7-6F93773AE378"
-    }
-  ],
-  "name": "iPhone 8 Copy 2",
+  "layerListExpandedType": 0,
+  "name": "Nav",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -114,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C7F21EF0-B93A-4AF3-AF23-006B94211784",
+    "do_objectID": "55884E30-468D-4D4B-8CBA-5598C42414DA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "83B085D2-F2A7-4C61-A931-790B527B9780",
+  "verticalSpacing": 0
 }

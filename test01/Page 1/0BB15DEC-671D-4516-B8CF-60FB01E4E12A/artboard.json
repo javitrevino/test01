@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "21024313-C053-4996-9786-698CCD0DAE30",
+  "do_objectID": "0BB15DEC-671D-4516-B8CF-60FB01E4E12A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 1626,
+    "x": 1222,
     "y": 331
   },
   "groupLayout": {
@@ -51,22 +51,22 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "1A96F228-A30A-49FA-A34D-55B84A6BE7D4"
+      "id": "2692590E-CB0E-4BA7-8291-A9E793DF4EFA"
     },
     {
       "class": "symbolInstance",
-      "id": "E1495030-3403-4B59-8D3F-E21EF32FF140"
+      "id": "252FBCBE-72C6-4FD5-BD94-48A7F4A07723"
     },
     {
       "class": "symbolInstance",
-      "id": "2F6B5724-3578-4092-B854-5D604761A5E1"
+      "id": "31CFE8CD-3B8A-4417-B00D-521E4955DC52"
     },
     {
       "class": "rectangle",
-      "id": "ADD30739-F5D1-4866-86D7-6F93773AE378"
+      "id": "5DFB622A-30D1-43AF-B356-04E68FC0331A"
     }
   ],
-  "name": "iPhone 8 Copy 2",
+  "name": "iPhone 8 Copy 3",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -114,7 +114,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C7F21EF0-B93A-4AF3-AF23-006B94211784",
+    "do_objectID": "B3DF900E-84D2-4C82-8DE7-B5A3951377CD",
     "endMarkerType": 0,
     "fills": [
     ],
