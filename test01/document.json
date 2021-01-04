@@ -24,7 +24,30 @@
   "colorSpace": 0,
   "do_objectID": "a2f0cfb0-4eb5-11eb-aae1-a1fb25ae65e2",
   "documentState": {
-    "_class": "documentState"
+    "_class": "documentState",
+    "cloudShare": {
+      "createdAt": "2021-01-04T23:33:51.479Z",
+      "currentVersion": {
+        "createdAt": "2021-01-04T23:33:51.478Z",
+        "id": "9ab08af2-acf1-4c04-96fc-891637339f4a",
+        "updatedAt": "2021-01-04T23:33:51.478Z"
+      },
+      "id": "a6db9c47-6689-4d8d-8770-a4c601843aa5",
+      "isPrivate": 1,
+      "libraryEnabled": 0,
+      "name": "test01",
+      "owner": {
+        "__typename": "PublicOrganization",
+        "createdAt": "2021-01-04T23:33:45.624Z",
+        "id": "6232aee0-8ed6-4edd-9d16-e2ff3f85dd4c",
+        "updatedAt": "2021-01-04T23:33:45.624Z",
+        "viewerCanContribute": 1
+      },
+      "publicUrl": "https://sketch.cloud/s/a6db9c47-6689-4d8d-8770-a4c601843aa5",
+      "shortId": "a6db9c47-6689-4d8d-8770-a4c601843aa5",
+      "updatedAt": "2021-01-04T23:33:51.479Z",
+      "viewerCanUpdate": 0
+    }
   },
   "fontReferences": [
   ],
