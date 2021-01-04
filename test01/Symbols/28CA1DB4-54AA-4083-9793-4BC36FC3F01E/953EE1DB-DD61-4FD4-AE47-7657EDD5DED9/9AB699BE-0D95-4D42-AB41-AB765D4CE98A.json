@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "85D7D13C-8507-4694-8557-C56113CD91BA",
+  "do_objectID": "9AB699BE-0D95-4D42-AB41-AB765D4CE98A",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,14 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 9.5,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 143,
-    "x": 94,
-    "y": 214
+    "height": 19,
+    "width": 93,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 9.5,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 9.5,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 9.5,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 9.5,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2492544D-506C-4E89-BE6B-A73A4A517EB9",
+    "do_objectID": "7BFEAA00-8B48-4BBC-9DBD-DDA548FF1279",
     "endMarkerType": 0,
     "fills": [
       {
@@ -173,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4484752710314764,
-          "green": 0.4484752710314764,
-          "red": 0.4484752710314764
+          "blue": 0.9099231664685236,
+          "green": 0.5184472311464101,
+          "red": 0.339000778974746
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

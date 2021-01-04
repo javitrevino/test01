@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ECC16A31-7CD9-4C11-9956-BD726E8E30DD",
+  "do_objectID": "D988E777-109E-462F-A899-D2FBE67D3B74",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,56 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 394,
-    "y": 321
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -476,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "44815373-836B-4BF5-83B4-C2A0B5A5E58B"
+      "class": "symbolMaster",
+      "id": "28CA1DB4-54AA-4083-9793-4BC36FC3F01E"
     },
     {
-      "class": "symbolInstance",
-      "id": "13705936-AC22-46FB-9C14-D0F1FC963F64"
+      "class": "symbolMaster",
+      "id": "0D32663B-C4BE-47AA-B583-4DF9A2019A6F"
     }
   ],
-  "name": "iPhone 8",
+  "name": "Symbols",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -106,7 +88,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B4AD1B9-13C0-4FF7-B4D9-3C226B25B138",
+    "do_objectID": "C56BB499-CB85-45EE-A537-7BDE39092715",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,7 +102,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -686,
     "guides": [
     ]
   }

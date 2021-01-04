@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ECC16A31-7CD9-4C11-9956-BD726E8E30DD",
+  "do_objectID": "E7EA6443-9814-45A4-82C0-C8BFAEA1D034",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,56 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 394,
-    "y": 321
+    "height": 43,
+    "width": 212,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "44815373-836B-4BF5-83B4-C2A0B5A5E58B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "13705936-AC22-46FB-9C14-D0F1FC963F64"
+      "class": "group",
+      "id": "763DF904-E5C8-4878-AB5B-7F1FA4A68A49"
     }
   ],
-  "name": "iPhone 8",
+  "name": "Button Copy",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -106,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B4AD1B9-13C0-4FF7-B4D9-3C226B25B138",
+    "do_objectID": "AB4937A4-CBEF-4195-8FF7-F4CC01A6357C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,10 +89,40 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "4DE64C22-6E20-43D4-8941-BBF5035F885D",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 43,
+          "width": 212,
+          "x": 35,
+          "y": 84
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "28CA1DB4-54AA-4083-9793-4BC36FC3F01E",
+        "symbolID": "2552E57B-DED7-4119-A5F4-F5FDCEAA0ADC"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "4DE64C22-6E20-43D4-8941-BBF5035F885D",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 43,
+          "width": 212,
+          "x": 35,
+          "y": 84
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "28CA1DB4-54AA-4083-9793-4BC36FC3F01E",
+        "symbolID": "2552E57B-DED7-4119-A5F4-F5FDCEAA0ADC"
+      }
+    }
   }
 }

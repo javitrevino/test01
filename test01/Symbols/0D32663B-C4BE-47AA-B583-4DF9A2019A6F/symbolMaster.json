@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ECC16A31-7CD9-4C11-9956-BD726E8E30DD",
+  "do_objectID": "0D32663B-C4BE-47AA-B583-4DF9A2019A6F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 394,
-    "y": 321
+    "height": 43,
+    "width": 212,
+    "x": 293,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,25 +49,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "44815373-836B-4BF5-83B4-C2A0B5A5E58B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "13705936-AC22-46FB-9C14-D0F1FC963F64"
+      "class": "group",
+      "id": "E7EA6443-9814-45A4-82C0-C8BFAEA1D034"
     }
   ],
-  "name": "iPhone 8",
+  "name": "Nav",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -106,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B4AD1B9-13C0-4FF7-B4D9-3C226B25B138",
+    "do_objectID": "49089067-9873-40BA-89C8-AC9AF0E2A4D6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,6 +113,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "83B085D2-F2A7-4C61-A931-790B527B9780",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
