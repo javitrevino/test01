@@ -26,33 +26,194 @@
   "documentState": {
     "_class": "documentState",
     "cloudShare": {
-      "createdAt": "2021-01-04T20:11:50.151Z",
+      "createdAt": "2021-01-04T23:33:51.479Z",
       "currentVersion": {
-        "createdAt": "2021-01-04T20:11:50.151Z",
-        "id": "ef7c55e4-d09f-4c85-ad6b-28a2cca4aa08",
-        "updatedAt": "2021-01-04T20:11:50.151Z"
+        "createdAt": "2021-01-04T23:33:51.478Z",
+        "id": "9ab08af2-acf1-4c04-96fc-891637339f4a",
+        "updatedAt": "2021-01-04T23:33:51.478Z"
       },
-      "id": "6aa9939b-4d7c-4ae0-9224-6f6081ef3de0",
+      "id": "a6db9c47-6689-4d8d-8770-a4c601843aa5",
       "isPrivate": 1,
       "libraryEnabled": 0,
       "name": "test01",
       "owner": {
-        "__typename": "PublicUser",
-        "createdAt": "2021-01-04T20:11:47.540Z",
-        "id": "fa69af64-0c1d-4b74-8144-ba44d3abab90",
-        "updatedAt": "2021-01-04T20:11:47.540Z"
+        "__typename": "PublicOrganization",
+        "createdAt": "2021-01-04T23:33:45.624Z",
+        "id": "6232aee0-8ed6-4edd-9d16-e2ff3f85dd4c",
+        "updatedAt": "2021-01-04T23:33:45.624Z",
+        "viewerCanContribute": 1
       },
-      "publicUrl": "https://sketch.cloud/s/6aa9939b-4d7c-4ae0-9224-6f6081ef3de0",
-      "shortId": "6aa9939b-4d7c-4ae0-9224-6f6081ef3de0",
-      "updatedAt": "2021-01-04T20:11:50.151Z",
+      "publicUrl": "https://sketch.cloud/s/a6db9c47-6689-4d8d-8770-a4c601843aa5",
+      "shortId": "a6db9c47-6689-4d8d-8770-a4c601843aa5",
+      "updatedAt": "2021-01-04T23:33:51.479Z",
       "viewerCanUpdate": 0
     }
   },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "05EF9BA6-E0E0-4C9D-BBC2-C7679D5581F0",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BoldIt.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BoldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2F38BDF2-511E-4673-93A5-C1D4FD6A943B",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "305F6F55-C4FE-4ACA-BE26-936346DEF04A",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Semibold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "45AA80B4-2C8B-4077-A966-462BF08703E1",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLightIt.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "54353FA6-68A5-4101-B334-CCD61BFDEA09",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5A32F9E2-135B-435E-AEC5-E6BE946FB060",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BB16E84D-E759-4E12-B811-DBD57EEB0C46",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C402FB6F-5001-4B4B-A5A5-A234ABE7BBFB",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CF5E87EE-F875-4CEC-8105-E74DDDA4E7CC",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BlackIt.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BlackIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D51FDD95-C5F7-478B-95CF-E7E493F7D204",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-LightIt.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-LightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D6DFCD88-4046-402D-9C6B-5D481EE8BA3E",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-It.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-It"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FB4F5F0B-BD83-46C1-A35A-93362776D340",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-SemiboldIt.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-SemiboldIt"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "059FCB63-E49B-40B5-B21C-27348F909603",
+      "libraryID": "3FDCAA98-154D-4045-B2AD-3054CBE3D286",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "DBD4DAEA-2DE2-457B-BE0B-E559F5A2D538",
+        "name": "7. #ED4335",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2068780393016582,
+          "green": 0.2646525793623623,
+          "red": 0.931281887755102
+        }
+      },
+      "remoteSwatchID": "9DC4C77B-AD33-473B-868D-B887F48DDCB8",
+      "sourceLibraryName": "Migrated Global Colors",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "031D621D-3A9D-4161-B1BF-79AF5DC95F52",
+      "libraryID": "3FDCAA98-154D-4045-B2AD-3054CBE3D286",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "17E70327-12E7-4EC8-B6DA-B7C171C78AB5",
+        "name": "8. #C2241A",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1019607843137255,
+          "green": 0.1411764705882353,
+          "red": 0.7607843137254902
+        }
+      },
+      "remoteSwatchID": "A2F14356-0C0D-42B5-B13C-1547D707D338",
+      "sourceLibraryName": "Migrated Global Colors",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
