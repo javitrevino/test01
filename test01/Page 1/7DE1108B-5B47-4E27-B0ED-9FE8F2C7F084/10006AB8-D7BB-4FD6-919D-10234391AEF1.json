@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "a2f0a8a0-4eb5-11eb-aae1-a1fb25ae65e2",
+  "do_objectID": "10006AB8-D7BB-4FD6-919D-10234391AEF1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,56 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 19,
+    "width": 93,
+    "x": 21,
+    "y": 334
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Button",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "ECC16A31-7CD9-4C11-9956-BD726E8E30DD"
-    },
-    {
-      "class": "artboard",
-      "id": "7DE1108B-5B47-4E27-B0ED-9FE8F2C7F084"
-    },
-    {
-      "class": "artboard",
-      "id": "11D6E21F-0CBE-470C-BF1C-6AFDDFD66869"
-    },
-    {
-      "class": "artboard",
-      "id": "78F07EF2-458D-41E0-839D-D33794DF6490"
-    },
-    {
-      "class": "artboard",
-      "id": "0A984EFE-B564-48C0-92DE-4EB9050AE9BA"
+      "_class": "overrideValue",
+      "overrideName": "857D18FA-9424-434D-8649-6B477AA8A06E_stringValue",
+      "value": "Another Button "
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -100,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EA5AFE5D-AE0D-4390-934D-89DCCDE782BA",
+    "do_objectID": "F95077CC-9A33-4204-B816-791A7D2CE06F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,10 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "2552E57B-DED7-4119-A5F4-F5FDCEAA0ADC",
+  "verticalSpacing": 0
 }
