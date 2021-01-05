@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "ADDED More TEXT"
+    "string": "ADDED Much Longer TEXT"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 31,
-    "width": 189,
-    "x": 107,
+    "width": 271,
+    "x": 38,
     "y": 484
   },
-  "glyphBounds": "{{-1, 8}, {189, 17}}",
+  "glyphBounds": "{{-1, 7}, {271, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "ADDED More TEXT",
+  "name": "ADDED Much Longer TE",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
